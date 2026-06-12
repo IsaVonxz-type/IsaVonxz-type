@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:2563EB&text=Isa%20Manuel&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:2563EB&text=IsaVonxz-Type&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40" />
 
 # 👋 Hey, I'm IsaVonxz-Type
 
