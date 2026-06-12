@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋, I'm Isa Manuel
+# Hey 👋, I'm IsaVonxz-Type
 
 ### Software Engineering Student
 
@@ -36,10 +36,7 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsaVonxz-type&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaVonxz-type&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IsaVonxz-Type&theme=catppuccin-macchiato&mode=weekly)](https://git.io/streak-stats)
 
 <br>
 
