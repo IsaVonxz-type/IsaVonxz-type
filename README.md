@@ -1,84 +1,119 @@
 <div align="center">
 
-# 👋 Hola, soy IsaVonxz-Type
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:2563EB&text=Isa%20Manuel&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40" />
 
-### Software Engineering Student | Web Developer | Networking Enthusiast | Linux Learner
+# 👋 Hey, I'm IsaVonxz-Type
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+Developer;Networking+Enthusiast;Linux+Learner;Cybersecurity+Student;Always+Learning+New+Technologies" />
+### Software Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Frontend+Developer;Full+Stack+Developer+in+Progress;Building+with+Astro+and+React;Learning+Modern+Web+Technologies;Always+Creating+Something+New" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+# 🚀 About Me
 
-🎓 Estudiante de Ingeniería de Software
+```yaml
+Name: Isa Manuel
+Location: Colombia
+Career: Software Engineering
 
-💻 Apasionado por el desarrollo web y la tecnología
+Interests:
+  - Full Stack Development
+  - Modern Web Technologies
+  - Open Source
+  - Backend Development
+  - Artificial Intelligence
 
-📚 Actualmente aprendiendo React, Astro, Node.js y tecnologías modernas
+Currently Learning:
+  - Astro
+  - React
+  - Node.js
+  - PostgreSQL
+  - Supabase
+  - Docker
 
-🚀 Siempre buscando mejorar mis habilidades y construir nuevos proyectos
+Goal:
+  Build scalable and modern web applications.
+```
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+# 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,astro,nodejs,cpp,java,python,mysql,git,github,linux,vscode" />
+<a href="https://github.com/IsaVonxz-type">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser">
+</a>
 
 </div>
 
-### Lenguajes
+---
 
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+# ⚡ Current Stack
 
-### Frontend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,astro,nodejs,postgres,docker,git,github,vscode,cpp,java,python" />
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
-
-### Bases de Datos
-
-
-### Herramientas
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
+</div>
 
 ---
 
-## 🚀 Proyectos Destacados
+# 🛠 Technologies & Tools
 
-### 🌐 Desarrollo Web
-- Aplicaciones web modernas con React
-- Interfaces responsivas con HTML, CSS y JavaScript
-- Experimentos y proyectos de aprendizaje frontend
+## Frontend
 
-### 🔐 Seguridad Informática
-- Análisis de vulnerabilidades
-- Fundamentos de ciberseguridad
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+![Astro](https://img.shields.io/badge/Astro-0D1117?style=for-the-badge&logo=astro)
 
-### 🤖 Programación
-- Aplicaciones en C++
-- Automatización con Python
-- Desarrollo orientado a objetos
-- Algoritmos y estructuras de datos
+## Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase)
+![Neon](https://img.shields.io/badge/Neon-0D1117?style=for-the-badge)
+
+## Deployment & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
+![Dokploy](https://img.shields.io/badge/Dokploy-0D1117?style=for-the-badge)
+
+## AI Development
+
+![OpenCode](https://img.shields.io/badge/OpenCode-0D1117?style=for-the-badge)
+
+## Programming Languages
+
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -90,7 +125,7 @@
 
 ---
 
-## 🔥 Racha de Contribuciones
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -100,7 +135,7 @@
 
 ---
 
-## 📈 Actividad
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -110,7 +145,7 @@
 
 ---
 
-## 🏆 Trofeos
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -120,47 +155,97 @@
 
 ---
 
-## 🎯 Objetivos Actuales
+# 🚀 Featured Projects
 
-✅ Mejorar mis habilidades en React
+## 🌐 Frontend Development
 
-✅ Aprender más sobre Astro
+- Modern websites with Astro
+- React applications
+- Responsive interfaces
+- Interactive user experiences
 
-✅ Profundizar en Node.js
+## ⚙️ Backend Development
 
-✅ Fortalecer conocimientos en redes empresariales
+- REST APIs
+- Authentication systems
+- Database integration
+- Server-side applications
 
-✅ Construir proyectos completos para mi portafolio
+## 🗄 Database Projects
+
+- PostgreSQL
+- Supabase
+- Neon Database
+- Data modeling
+
+## 🚢 Deployment
+
+- Dockerized applications
+- Dokploy deployments
+- CI/CD exploration
+- Self-hosted services
+
+## 🤖 Programming
+
+- C++ projects
+- Java applications
+- Python automation
+- Software engineering projects
 
 ---
 
-## 📚 Actualmente Aprendiendo
+# 📚 Current Learning Journey
 
-```txt
-Frontend      ████████████░░░░ 75%
-React         █████████░░░░░░░ 60%
-Astro         ██████████░░░░░░ 65%
-Node.js       ███████░░░░░░░░░ 50%
+```text
+HTML/CSS      ████████████████████ 100%
+JavaScript    █████████████████░░░ 85%
+React         ██████████████░░░░░░ 70%
+Astro         █████████████████░░░ 85%
+Node.js       ████████████░░░░░░░░ 60%
+PostgreSQL    ████████████░░░░░░░░ 60%
+Supabase      ████████████░░░░░░░░ 60%
+Neon          ███████████░░░░░░░░░ 55%
+Docker        ███████░░░░░░░░░░░░░ 35%
 ```
 
 ---
 
-## 🌎 Conecta conmigo
+# 🎯 2026 Goals
 
-<p align="center">
+- [ ] Build a professional portfolio
+- [ ] Master Astro
+- [ ] Improve React skills
+- [ ] Learn advanced PostgreSQL
+- [ ] Build SaaS projects with Supabase
+- [x] Deploy applications using Dokploy
+- [ ] Learn Docker in depth
+- [ ] Contribute to Open Source
+- [ ] Create production-ready full stack applications
 
-<a href="https://github.com/IsaVonxz-type">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
-</a>
+---
 
-</p>
+# 💻 Development Philosophy
+
+```javascript
+const isa = {
+  code: ["JavaScript", "Python", "Java", "C++"],
+  frontend: ["React", "Astro"],
+  backend: ["Node.js"],
+  database: ["PostgreSQL", "Supabase", "Neon"],
+  deployment: ["Docker", "Dokploy"],
+  tools: ["Git", "GitHub", "VS Code", "OpenCode"],
+  challenge: "Building modern web applications"
+};
+```
 
 ---
 
 <div align="center">
 
-### 💡 "La mejor forma de aprender es construyendo proyectos."
+### 💡 "The best way to learn is by building."
 
-⭐ Gracias por visitar mi perfil ⭐
+<img src="https://komarev.com/ghpvc/?username=IsaVonxz-type&color=blue&style=for-the-badge" />
+
+⭐ Thanks for visiting my profile ⭐
 
 </div>
