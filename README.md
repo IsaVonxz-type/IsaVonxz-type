@@ -25,21 +25,30 @@
 
 <h3>About</h3>
 
-Software Engineering student<br>
-Building modern web applications<br>
-Interested in useful, scalable products<br>
-Learning by shipping real projects
+<p>
+  <img src="https://img.shields.io/badge/Role-Software%20Engineering%20Student-58A6FF?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/Focus-Modern%20Web%20Applications-1F6FEB?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/Goal-Useful%20%26%20Scalable%20Products-7C3AED?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/Mindset-Learn%20by%20Shipping-2EA043?style=flat-square" />
+</p>
 
 </td>
 <td valign="top" width="48%">
 
 <h3>Current Focus</h3>
 
-<pre lang="txt">Astro projects
-React practice
-Supabase + Neon
-PostgreSQL growth
-Docker deployments</pre>
+<p>
+  <img src="https://img.shields.io/badge/Astro-Projects-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Practice-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/Supabase-%2B%20Neon-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Growth-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-Deployments-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 </td>
 </tr>
