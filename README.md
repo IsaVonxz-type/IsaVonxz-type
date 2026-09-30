@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/stormyark/Obsidian-Vault/main/Vault/08%20-%20Recources/Purple_Sky.png" alt="Purple Sky Banner"/>
+<img width="90%" src="purple-sky.webp" alt="Purple Sky Banner"/>
 
 <br>
 
